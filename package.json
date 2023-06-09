@@ -1,0 +1,17 @@
+{
+  "name": "v14-empty",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "v14 empty bot",
+  "main": "jahky.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jahky",
+  "license": "MIT",
+  "dependencies": {
+    "ceki.db": "^0.0.6",
+    "discord.js": "^14.6.0",
+    "moment": "^2.29.4"
+  }
+}
